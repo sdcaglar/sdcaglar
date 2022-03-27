@@ -3,7 +3,5 @@
 
 #### I'm a software developer. I work as a backend developer most of the day. I like to read and use open source projects.
 
-- 🔭  I’m currently developing a web project on linux systems.
-- 🌱  I’m currently learning python security model and linux systems
-- 💬  Ask me about backend and DevOPS techs
-- 📫  seedacaglar@gmail.com
+- 🔭  I’m currently developing web projects on linux systems.
+- 🌱  I’m learning python security model and linux systems

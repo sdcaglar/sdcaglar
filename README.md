@@ -1,7 +1,23 @@
 ### Hi there, I'm Seda <img align="right" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sdcaglar.sdcaglar">
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sdcaglar&theme=dark&show_icons=true">](https://metrics.lecoq.io/sdcaglar?template=classic)
 
-#### I'm a software developer. I work as a backend developer most of the day. I like to read and use open source projects.
+#### I am a Python backend developer. Writing code is a passion of mine, and I love continuously learning to create innovative solutions.
 
-- 🔭  I’m currently developing web projects on linux systems.
-- 🌱  I’m learning python security model and linux systems
+- 🔭 I’ve worked on payment systems and am currently developing web projects on Linux.
+- 🌱 I love learning new technologies, especially in Python.
+- 💬 Feel free to ask me about Python and Linux.
+- 📫 How to reach me: seedacaglar@gmail.com
+
+<!--
+**sdcaglar/sdcaglar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

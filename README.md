@@ -4,7 +4,6 @@
 
 - 🔭 I’ve worked on payment systems and am currently developing web projects on Linux.
 - 🌱 I love learning new technologies, especially in Python.
-- 💬 Feel free to ask me about Python and Linux.
 - 📫 How to reach me: seedacaglar@gmail.com
 
 <!--
